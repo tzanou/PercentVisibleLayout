@@ -2,6 +2,14 @@
 
 VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom listener which gives the visibility percentage of the layout every time it is changed.Pixel visibility listener is also available.
 
+### Currently supporting
+
+- Percentage Listener with visible height/width percentage and flags for which part is missing
+- Pixels Listener with visible height/width pixels and flags for which part is missing
+
+
+
+
 ### Demo
 
 ![alt text](http://i268.photobucket.com/albums/jj26/tzanou/simple_zpsklounw4l.gif )
