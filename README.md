@@ -25,13 +25,14 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
         android:layout_width="300dp"
         android:layout_height="300dp"
         android:layout_gravity="center"
-        android:id="@+id/custom_layout"
-        >
+        android:id="@+id/custom_layout">
+        
         <TextView
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/percentage_text"/>
+            
     </tzanou.gr.visibilitypercentage.PercentageVisibilityLayout>
 ```
 #### In your activity
