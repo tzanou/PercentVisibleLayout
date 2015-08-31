@@ -40,6 +40,6 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
         });
 ```
 
-## More examples and methods [Wiki Page](https://github.com/tzanou/VisibilityPercentageLayout/wiki)
+## More examples and methods on [Wiki Page](https://github.com/tzanou/VisibilityPercentageLayout/wiki)
 
 
