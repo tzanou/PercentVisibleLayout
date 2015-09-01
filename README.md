@@ -1,9 +1,9 @@
-# VisibilityPercentageLayout
+# VisiblePercentLayout
 
 VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom listener which gives the visibility percentage of the layout every time it is changed.Pixel visibility listener is also available.
 
 ### Currently supporting
-- User **ONLY** inside Listviews,RecyclerViews,ScrollViews etc.
+- Use **ONLY** inside Listviews,RecyclerViews,ScrollViews etc.
 - Percentage Listener with visible height/width percentage and flags for which part is missing
 - Pixels Listener with visible height/width pixels and flags for which part is missing
 
