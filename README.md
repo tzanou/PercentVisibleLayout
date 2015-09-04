@@ -59,4 +59,4 @@ compile 'com.tzanou:PercentVisibleLayout:1.0'
 }
 ```
 
-or Downwnload [PercentVisibleLayout.java](http://google.com)
+or Downwnload [PercentVisibleLayout.java](https://github.com/tzanou/PercentVisibleLayout/blob/master/Library/java/com/tzanou/PercentVisibleLayout/PercentVisibleLayout.java)
