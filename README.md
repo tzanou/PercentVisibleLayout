@@ -51,4 +51,12 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
 
 ## More examples and methods on [Wiki Page](https://github.com/tzanou/VisibilityPercentageLayout/wiki)
 
+##Download
 
+```
+dependencies {
+compile 'com.tzanou:PercentVisibleLayout:1.0'
+}
+```
+
+or Downwnload [PercentVisibleLayout.java](http://google.com)
