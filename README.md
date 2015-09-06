@@ -21,7 +21,7 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
 #### In your xml file
 
 ```xml
-   <tzanou.gr.visiblepercentlayout.PercentVisibleLayout
+   <com.tzanou.PercentVisibleLayout.PercentVisibleLayout
         android:layout_width="300dp"
         android:layout_height="300dp"
         android:layout_gravity="center"
@@ -33,7 +33,7 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
             android:layout_height="wrap_content"
             android:id="@+id/percentage_text"/>
             
-    </tzanou.gr.visiblepercentlayout.PercentVisibleLayout>
+    </com.tzanou.PercentVisibleLayout.PercentVisibleLayout>
 ```
 #### In your activity
 
@@ -55,7 +55,7 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
 
 ```
 dependencies {
-compile 'com.tzanou:PercentVisibleLayout:1.0'
+compile 'com.tzanou:PercentVisibleLayout:1.1.2@aar'
 }
 ```
 
