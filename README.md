@@ -12,6 +12,9 @@ VisibilityPercentageLayout is a layout (extends RelativeLayout) with a custom li
 
 ### Demo
 
+[![](https://pinalbookclub.files.wordpress.com/2013/12/google-play-icon-small.png?w=593)](https://play.google.com/store/apps/details?id=demo.percentvisiblelayout.tzanou.gr.percentvisiblelayoutdemo)
+
+
 ![alt text](http://i268.photobucket.com/albums/jj26/tzanou/simple_zpskny3oz8q.gif ) ![alt text](http://i268.photobucket.com/albums/jj26/tzanou/complex_zpsdvhsxfkn.gif ) ![alt text](http://i268.photobucket.com/albums/jj26/tzanou/horizontal_zpsen0debme.gif )
 
 ### Usage
